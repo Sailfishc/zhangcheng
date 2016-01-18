@@ -1,0 +1,11 @@
+<dependencies>
+		<dependency>
+			<groupId>com.taotao</groupId>
+			<artifactId>taotao-manager-pojo</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
+		<!-- Mybatis -->
+		<dependency>
+			<groupId>org.mybatis</groupId>
+			<artifactId>mybatis</artifactId>
+		</dependency>
